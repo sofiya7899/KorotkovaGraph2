@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "C:/Users/Сонечка/Desktop/OpenGL-master/Korotkova2/bin/gl_base_sample_2020.exe"
+			"path" : "C:/Users/Сонечка/Desktop/Korotkova2/bin/gl_base_sample_2020.exe"
 		},
 		{
-			"path" : "C:/Users/Сонечка/Desktop/OpenGL-master/Korotkova2/bin/gl_base_sample_2020.pdb"
+			"path" : "C:/Users/Сонечка/Desktop/Korotkova2/bin/gl_base_sample_2020.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -59,11 +59,11 @@
 			[
 				{
 					"backtrace" : 3,
-					"path" : "C:/Users/Сонечка/Desktop/OpenGL-master/Korotkova2/dependencies/include/GLAD"
+					"path" : "C:/Users/Сонечка/Desktop/Korotkova2/dependencies/include/GLAD"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "C:/Users/Сонечка/Desktop/OpenGL-master/Korotkova2/dependencies/include"
+					"path" : "C:/Users/Сонечка/Desktop/Korotkova2/dependencies/include"
 				}
 			],
 			"language" : "C",
@@ -83,11 +83,11 @@
 			[
 				{
 					"backtrace" : 3,
-					"path" : "C:/Users/Сонечка/Desktop/OpenGL-master/Korotkova2/dependencies/include/GLAD"
+					"path" : "C:/Users/Сонечка/Desktop/Korotkova2/dependencies/include/GLAD"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "C:/Users/Сонечка/Desktop/OpenGL-master/Korotkova2/dependencies/include"
+					"path" : "C:/Users/Сонечка/Desktop/Korotkova2/dependencies/include"
 				}
 			],
 			"language" : "CXX",
@@ -114,7 +114,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-LIBPATH:C:\\Users\\Сонечка\\Desktop\\OpenGL-master\\Korotkova2\\dependencies\\lib",
+				"fragment" : "-LIBPATH:C:\\Users\\Сонечка\\Desktop\\Korotkova2\\dependencies\\lib",
 				"role" : "libraryPath"
 			},
 			{

@@ -38,7 +38,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "gl_base_sample_2020::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-gl_base_sample_2020-Debug-958f2ada08863a87b516.json",
+					"jsonFile" : "target-gl_base_sample_2020-Debug-b646aff56796bf4aba06.json",
 					"name" : "gl_base_sample_2020",
 					"projectIndex" : 0
 				}
@@ -48,8 +48,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Сонечка/Desktop/OpenGL-master/Korotkova2/out/build/x64-Debug",
-		"source" : "C:/Users/Сонечка/Desktop/OpenGL-master/Korotkova2"
+		"build" : "C:/Users/Сонечка/Desktop/Korotkova2/out/build/x64-Debug",
+		"source" : "C:/Users/Сонечка/Desktop/Korotkova2"
 	},
 	"version" : 
 	{

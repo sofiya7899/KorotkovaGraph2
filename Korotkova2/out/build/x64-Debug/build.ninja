@@ -82,9 +82,9 @@ build ..\..\..\bin\gl_base_sample_2020.exe: CXX_EXECUTABLE_LINKER__gl_base_sampl
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = opengl32.lib  glfw3dll.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
-  LINK_PATH = -LIBPATH:C:\Users\Сонечка\Desktop\OpenGL-master\Korotkova2\dependencies\lib
+  LINK_PATH = -LIBPATH:C:\Users\Сонечка\Desktop\Korotkova2\dependencies\lib
   OBJECT_DIR = CMakeFiles\gl_base_sample_2020.dir
-  POST_BUILD = cmd.exe /C "cd /D C:\Users\Сонечка\Desktop\OpenGL-master\Korotkova2\out\build\x64-Debug && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E copy_directory C:/Users/Сонечка/Desktop/OpenGL-master/Korotkova2/dependencies/bin C:/Users/Сонечка/Desktop/OpenGL-master/Korotkova2/bin"
+  POST_BUILD = cmd.exe /C "cd /D C:\Users\Сонечка\Desktop\Korotkova2\out\build\x64-Debug && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E copy_directory C:/Users/Сонечка/Desktop/Korotkova2/dependencies/bin C:/Users/Сонечка/Desktop/Korotkova2/bin"
   PRE_LINK = cd .
   TARGET_COMPILE_PDB = CMakeFiles\gl_base_sample_2020.dir\
   TARGET_FILE = ..\..\..\bin\gl_base_sample_2020.exe
@@ -96,7 +96,7 @@ build ..\..\..\bin\gl_base_sample_2020.exe: CXX_EXECUTABLE_LINKER__gl_base_sampl
 # Utility command for edit_cache
 
 build CMakeFiles\edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\Сонечка\Desktop\OpenGL-master\Korotkova2\out\build\x64-Debug && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\Users\Сонечка\Desktop\Korotkova2\out\build\x64-Debug && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -107,7 +107,7 @@ build edit_cache: phony CMakeFiles\edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\Сонечка\Desktop\OpenGL-master\Korotkova2\out\build\x64-Debug && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:\Users\Сонечка\Desktop\OpenGL-master\Korotkova2 -BC:\Users\Сонечка\Desktop\OpenGL-master\Korotkova2\out\build\x64-Debug"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Сонечка\Desktop\Korotkova2\out\build\x64-Debug && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:\Users\Сонечка\Desktop\Korotkova2 -BC:\Users\Сонечка\Desktop\Korotkova2\out\build\x64-Debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -127,7 +127,7 @@ build gl_base_sample_2020.exe: phony ..\..\..\bin\gl_base_sample_2020.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/Сонечка/Desktop/OpenGL-master/Korotkova2/out/build/x64-Debug
+# Folder: C:/Users/Сонечка/Desktop/Korotkova2/out/build/x64-Debug
 
 build all: phony ..\..\..\bin\gl_base_sample_2020.exe
 

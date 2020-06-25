@@ -1,3 +1,3 @@
-C:/Users/Сонечка/Desktop/OpenGL-master/Korotkova2/out/build/x64-Debug/CMakeFiles/gl_base_sample_2020.dir
-C:/Users/Сонечка/Desktop/OpenGL-master/Korotkova2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/Сонечка/Desktop/OpenGL-master/Korotkova2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Сонечка/Desktop/Korotkova2/out/build/x64-Debug/CMakeFiles/gl_base_sample_2020.dir
+C:/Users/Сонечка/Desktop/Korotkova2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Сонечка/Desktop/Korotkova2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

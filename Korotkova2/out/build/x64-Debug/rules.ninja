@@ -56,7 +56,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:\Users\Сонечка\Desktop\OpenGL-master\Korotkova2 -BC:\Users\Сонечка\Desktop\OpenGL-master\Korotkova2\out\build\x64-Debug
+  command = "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:\Users\Сонечка\Desktop\Korotkova2 -BC:\Users\Сонечка\Desktop\Korotkova2\out\build\x64-Debug
   description = Re-running CMake...
   generator = 1
 

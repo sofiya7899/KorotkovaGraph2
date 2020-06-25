@@ -23,7 +23,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Сонечка/Desktop/OpenGL-master/Korotkova2/out/build/x64-Debug"
+			"value" : "c:/Users/Сонечка/Desktop/Korotkova2/out/build/x64-Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -499,7 +499,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Сонечка/Desktop/OpenGL-master/Korotkova2"
+			"value" : "C:/Users/Сонечка/Desktop/Korotkova2"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -511,7 +511,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/Сонечка/Desktop/OpenGL-master/Korotkova2/out/install/x64-Debug"
+			"value" : "C:/Users/Сонечка/Desktop/Korotkova2/out/install/x64-Debug"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1191,7 +1191,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Сонечка/Desktop/OpenGL-master/Korotkova2/out/build/x64-Debug"
+			"value" : "C:/Users/Сонечка/Desktop/Korotkova2/out/build/x64-Debug"
 		},
 		{
 			"name" : "gl_base_sample_2020_SOURCE_DIR",
@@ -1203,7 +1203,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Сонечка/Desktop/OpenGL-master/Korotkova2"
+			"value" : "C:/Users/Сонечка/Desktop/Korotkova2"
 		}
 	],
 	"kind" : "cache",
